@@ -16,8 +16,12 @@
 
 .project-image {
   border: 2px solid pink;
+  height: 150px;
+  width: 150px;
+
 }
 
 .icon {
   font-size: 7rem;
+  padding: 10px;
 }
