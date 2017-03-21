@@ -15,7 +15,7 @@
 }
 
 .project-image {
-  border: 2px solid pink;
+  border: 2px solid #F28500;
   height: 150px;
   width: 150px;
 
@@ -24,4 +24,38 @@
 .icon {
   font-size: 7rem;
   padding: 10px;
+  color: black;
+}
+
+.image-border {
+  border: 3px solid skyblue;
+}
+
+p {
+  text-align: justify;
+  font-size: 26px;
+  font-family: 'Hello Stockholm'; !important
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#advanced {
+  width: 200px;
+  height: 200px;
+
+  background-image: -moz-radial-gradient(45px 45px 45deg, circle cover, yellow 0%, orange 100%, red 95%);
+  background-image: -webkit-radial-gradient(45px 45px, circle cover, yellow, orange);
+  background-image: radial-gradient(45px 45px 45deg, circle cover, yellow 0%, orange 100%, red 95%);
+
+  animation-name: spin;
+  animation-duration: 3s; /* 3 seconds */
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
 }
