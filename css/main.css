@@ -1,9 +1,12 @@
 .section-about {
   padding-top: 75px !important;
+  padding-bottom: 50px !important;
 }
 
 #download {
   padding-top: 50px !important;
+  height: 1500px !important;
+  background-color: black;
 }
 
 #contact {
@@ -23,7 +26,10 @@
 
 }
 
-.opening {
+.project-description {
+  color: turquoise;
+  font-size: 14px;
+  margin-top: 20px;
 }
 
 .icon {
@@ -34,11 +40,12 @@
 
 .image-border {
   border: 3px solid turquoise;
+  margin-bottom: 25px;
 }
 
 p {
   text-align: justify;
-  font-size: 26px;
+  font-size: 20px;
 }
 
 
