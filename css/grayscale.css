@@ -227,7 +227,7 @@ a:focus {
   height: 910px;
   padding: 50px 0;
   color: white;
-  background: url(../img/trNwaqA.png) no-repeat center center scroll;
+  /*background: url(../img/trNwaqA.png) no-repeat center center scroll;*/
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
