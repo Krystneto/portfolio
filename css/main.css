@@ -13,10 +13,11 @@
 
 .project-title {
   font-size: 20px;
+  font-family: ;
 }
 
 .project-image {
-  border: 2px solid #F28500;
+  border: 2px solid turquoise;
   height: 150px;
   width: 150px;
 
@@ -37,8 +38,10 @@ p {
   font-size: 26px;
 }
 
+
 .img-circle {
   border-radius: 50%;
+  border: 1px solid black;
 }
 
 @keyframes spin {

@@ -263,7 +263,7 @@ a:focus {
 .btn-default {
   border: 1px solid black;
   color: black;
-  background-color: transparent;
+  background-color: turquoise;
 }
 .btn-default:hover,
 .btn-default:focus {
