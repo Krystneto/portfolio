@@ -8,6 +8,7 @@
 
 #contact {
   padding-top: 50px !important;
+  height: 420px;
 }
 
 .project-title {
@@ -28,13 +29,12 @@
 }
 
 .image-border {
-  border: 3px solid skyblue;
+  border: 3px solid turquoise;
 }
 
 p {
   text-align: justify;
   font-size: 26px;
-  font-family: 'Hello Stockholm'; !important
 }
 
 .img-circle {
