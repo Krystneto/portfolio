@@ -1,6 +1,9 @@
 @font-face {
   font-family: 'Hello Stockholm';
-  src: url('https://krystneto.github.io/portfolio/fonts/HelloStockholm-Regular.ttf');
+  src: url('https://krystneto.github.io/portfolio/css/HelloStockholm-Regular.ttf');
+  src: url('https://krystneto.github.io/portfolio/css/HelloStockholm-Regular.otf');
+  src: url('https://krystneto.github.io/portfolio/css/HelloStockholm-Alt.ttf');
+  src: url('https://krystneto.github.io/portfolio/css/HelloStockholm-Alt.otf');
   src: url('webfont.eot'); /* IE9 Compat Modes */
   src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
