@@ -66,6 +66,9 @@ p {
   font-size: 20px;
 }
 
+li {
+  text-align: justify;
+}
 
 .img-circle {
   border-radius: 50%;
