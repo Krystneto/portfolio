@@ -50,6 +50,10 @@
   margin-top: 20px;
 }
 
+.project-description > li {
+  text-align: left;
+}
+
 .icon {
   font-size: 7rem;
   padding: 10px;
@@ -62,12 +66,12 @@
 }
 
 p {
-  text-align: justify;
+  text-align: left;
   font-size: 20px;
 }
 
 li {
-  text-align: justify;
+  text-align: center;
 }
 
 .img-circle {
