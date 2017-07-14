@@ -16,7 +16,7 @@
   z-index: -998;
 }
 #c01 {
-  border-bottom: 100px solid rgba(0,0,0,0.1);
+  border-bottom: 100px solid rgba(169,169,169,0.2);
   border-right: 100vw solid transparent;
   bottom: 0;
   right: 0;
@@ -28,14 +28,14 @@
   left: 0;
 }
 #c03 {
-  border-top: 200px solid rgba(0,0,0,0.2);
+  border-top: 200px solid rgba(169,169,169,0.1);
   border-right: 40vw solid transparent;
   border-left: 60vw solid transparent;
   top: 0;
   right: 0;
 }
 #c04 {
-  border-top: 400px solid rgba(0,0,0,0.4);
+  border-top: 400px solid rgba(169,169,169,0.3);
   border-right: 80vw solid transparent;
   border-left: 20vw solid transparent;
   top: 0;
