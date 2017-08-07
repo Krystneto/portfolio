@@ -97,3 +97,11 @@ li {
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
+
+.image-style {
+  border:1px solid black;
+  margin-bottom:40px;
+  float:left;
+  padding:3px;
+  margin:28px 20px 20px
+}
